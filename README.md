@@ -71,7 +71,7 @@ The following **machine learning classifiers** were implemented:
 |----------------------|---------|-----------|--------|----------|
 | Local KNN           | 67%     | 0.70      | 0.67   | 0.66     |
 | Weighted KNN        | 69%     | 0.79      | 0.73   | 0.72     |
-| Gradient Boosting   | **73.8%**  | -         | -      | -        |
+| Gradient Boosting   | **73.8%** | **0.81**  | **0.76** | **0.78** |
 
 ✅ **Gradient Boosting** achieved the highest accuracy of **73.8%**, outperforming both KNN variants.
 
